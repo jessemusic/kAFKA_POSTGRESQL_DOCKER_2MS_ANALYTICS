@@ -1,4 +1,4 @@
-# Configurações do PostgreSQL
+# Configurações do PostgreSQL####
 POSTGRES_DB=car_post_analytics
 POSTGRES_USER=myuser
 POSTGRES_PASSWORD=mypassword
