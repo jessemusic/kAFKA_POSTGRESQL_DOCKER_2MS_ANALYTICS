@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: kafka
+  kafka:
+    bootstrap-server: localhost:9092
+
+endpoint:
+  url:
+    service:
+      store:
+        user: http://localhost:8080/user
+        posts: http://localhost:8080/sale
+server:
+  port: 8085
